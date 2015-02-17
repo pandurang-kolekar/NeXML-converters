@@ -1,6 +1,8 @@
-#Author: Pandurang Kolekar
-#Email: pandurang.kolekar@gmail.com
-
+# Author: Pandurang Kolekar
+# Email: pandurang.kolekar@gmail.com
+# These scripts were contributed during Tree-for-All Hackathon
+# as the part of Phylogeny visulaization style sheets projects
+# https://github.com/OpenTreeOfLife/hackathon
 Dependencies: Need Bio::Phylo package to be installed on your computer
 
 1. Newick to NexML conversion
@@ -12,7 +14,6 @@ perl Newick-to-Nexml.pl <input_newick_file>
 Example
 
 perl Newick-to-Nexml.pl test.nwk
-
 
 2. Nexus to NexML conversion
 
